@@ -30,3 +30,4 @@ function updateOne() {
         });
     });
 };
+module.exports = {updateOne, selectAll, insertOne}

@@ -1,1 +1,4 @@
-let orm = require('orm.js');
+let orm = require('./config/orm.js');
+//calling the methods
+orm.selectAll();
+

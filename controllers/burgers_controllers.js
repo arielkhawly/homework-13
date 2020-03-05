@@ -1,7 +1,7 @@
 let express = require('express');
 let app = express();
-let burger = require('burger.js');
+let burger = require('./models/burger.js');
 
 // router
-
+app.get
 module.exports = router;
